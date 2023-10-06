@@ -1,4 +1,9 @@
 ### Hi there 👋
+I am a University Student studying BSc Robotics and Artificial Intelligence at Univeristy of Hull.
+
+**My Leet Code statistics**:
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/AlexandrosBREW?theme=light&font=Walter%20Turncoat)
 
 <!--
 **AlexandrosBrew/AlexandrosBrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
