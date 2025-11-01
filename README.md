@@ -1,6 +1,9 @@
 ### Hi there 👋
 I am a University Student studying BSc Robotics and Artificial Intelligence at Univeristy of Hull.
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="alexandrosbrew" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/alexandrosbrew?trk=profile-badge">Alexandros Brew</a></div>
+              
+
 <!--
 **AlexandrosBrew/AlexandrosBrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
