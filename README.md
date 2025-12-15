@@ -1,6 +1,8 @@
 ### Hi there 👋
 I am a University Student studying BSc Robotics and Artificial Intelligence at Univeristy of Hull.
 
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/AlexandrosBREW?theme=catppuccinMocha&font=Saira%20Semi%20Condensed)
 <!--
 **AlexandrosBrew/AlexandrosBrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
