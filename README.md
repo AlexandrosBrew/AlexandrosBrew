@@ -135,18 +135,6 @@ I am currently focused on developing stronger practical experience in:
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexandrosBrew&show_icons=true&theme=tokyonight&hide_border=true" alt="Alexandros Brew GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrosBrew&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</p>
-
----
-
 ## Project Areas
 
 | Area | Example Work |
