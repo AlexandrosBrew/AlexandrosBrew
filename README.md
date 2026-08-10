@@ -1,6 +1,6 @@
 # Hi, I'm Alexandros Brew
 
-**BSc Robotics and Artificial Intelligence Student**
+**BSc Robotics and Artificial Intelligence**
 Robotics • Computer Vision • Machine Learning • Human-Robot Interaction
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-AlexandrosBrew-181717?style=for-the-badge&logo=github)](https://github.com/AlexandrosBrew) [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Alexandros%20Brew-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alexandrosbrew/)
@@ -9,7 +9,7 @@ Robotics • Computer Vision • Machine Learning • Human-Robot Interaction
 
 ## About Me
 
-I am a Robotics and Artificial Intelligence student with a strong interest in building intelligent, interactive, and accessible robotic systems. My work focuses on combining **computer vision**, **machine learning**, **embedded systems**, and **robotic control** to create practical prototypes that connect perception with real-world actuation.
+I am a high first class Robotics and Artificial Intelligence graduate with a strong interest in building intelligent, interactive, and accessible robotic systems. My work focuses on combining **computer vision**, **machine learning**, **embedded systems**, and **robotic control** to create practical prototypes that connect perception with real-world actuation.
 
 My main technical interests include:
 
