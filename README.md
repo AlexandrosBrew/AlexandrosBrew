@@ -3,7 +3,8 @@
 **BSc Robotics and Artificial Intelligence**
 Robotics • Computer Vision • Machine Learning • Human-Robot Interaction
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-AlexandrosBrew-181717?style=for-the-badge&logo=github)](https://github.com/AlexandrosBrew) [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Alexandros%20Brew-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alexandrosbrew/)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Alexandros%20Brew-181717?style=for-the-badge&logo=github)](https://github.com/AlexandrosBrew) [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Alexandros%20Brew-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/alexandrosbrew/) [![Website Profile](https://img.shields.io/badge/Website-Alexandros%20Brew-FF8C00?style=for-the-badge)](https://alexandrosbrew.com/)
+
 
 ---
 
